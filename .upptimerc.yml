@@ -4,7 +4,7 @@ repo: statuspage # The name of this repository
 
 sites:
   - name: Nature Site
-    url: https://naturehotels.site
+    url: https://status.naturehotels.site
   - name: Tovy (Activity Tracker)
     url: https://tovy.naturehotels.site
   - name: Discord
