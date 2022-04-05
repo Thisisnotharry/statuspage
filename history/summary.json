@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/naturehotels.site",
     "slug": "nature-website",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-04-05": 4
+      "2022-04-05": 8
     }
   },
   {
@@ -30,51 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "N/A",
-    "url": "N/A",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "n-a",
-    "status": "down",
-    "uptime": "0.32%",
-    "uptimeDay": "0.32%",
-    "uptimeWeek": "0.32%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "0.32%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-04-05": 4
-    }
-  },
-  {
-    "name": "N/A",
-    "url": "N/A",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "n-a",
-    "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-04-05": 4
-    }
   }
 ]
