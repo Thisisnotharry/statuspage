@@ -11,7 +11,7 @@ sites:
     url: https://google.co.uk
 
 i18n:
-  footer: Test
+  footer: Found an issue with any of our products? Report it to our SHR team.
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
