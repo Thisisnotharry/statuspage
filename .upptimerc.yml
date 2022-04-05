@@ -24,6 +24,9 @@ status-website:
       href: /
     - title: Discord
       href: https://discord.gg/TDzpySe
+      
+   i18n:
+  footer: Copyright Nature 2022
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
