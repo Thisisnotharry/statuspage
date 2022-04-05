@@ -1,20 +1,20 @@
 [
   {
     "name": "Nature Site",
-    "url": "https://naturehotels.site",
-    "icon": "https://favicons.githubusercontent.com/naturehotels.site",
+    "url": "https://status.naturehotels.site",
+    "icon": "https://favicons.githubusercontent.com/status.naturehotels.site",
     "slug": "nature-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 249,
+    "timeDay": 249,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   }
 ]
