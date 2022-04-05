@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.naturehotels.site
-  baseUrl: /statuspage
+  # baseUrl: /statuspage
   logoUrl: https://media.discordapp.net/attachments/690225153375993880/960202938574319726/NatureOfficial.png
   name: Nature
   introTitle: "Nature Service Status"
