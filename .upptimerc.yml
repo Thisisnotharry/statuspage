@@ -14,7 +14,7 @@ status-website:
   cname: status.naturehotels.tk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Nature Hotels & Resorts | Status
+  name: Nature Hotels & Resorts
   introTitle: "Nature Assistant"
   introMessage: Welcome to the official Nature Hotels & Resorts status page, managed by Th_sisnotharry. This page will be used as a hub for informative updates on service outages, maintenances and other issues that may occur to our services.
   navbar:
