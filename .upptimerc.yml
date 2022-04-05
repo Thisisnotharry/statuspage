@@ -17,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://media.discordapp.net/attachments/690225153375993880/960202938574319726/NatureOfficial.png
   name: Nature
-  introTitle: "Nature Assistant"
+  introTitle: "Nature Service Status"
   introMessage: Welcome to the official Nature Hotels & Resorts status page, managed by Thisisnotharry. This page will be used as a hub for informative updates on service outages, maintenances and other issues that may occur to our services.
   navbar:
     - title: Status
